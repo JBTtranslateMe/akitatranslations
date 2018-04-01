@@ -167,7 +167,6 @@ p {
 
 .box p {
     text-align: left;
-    padding: 0 2em 0.5em;
 }
 
 .address {
@@ -271,5 +270,9 @@ p {
     }
     #section-c p {
         text-align: justify;
+    }
+    .box p {
+    text-align: left;
+    padding: 0 2em 0.5em;
     }
 } 
